@@ -1,7 +1,7 @@
 ## Frontend
 
 npm install\
-npm start\
+npm start
 
 ### `backend`
 pip install virtualenv\
@@ -11,5 +11,5 @@ pip install django\
 django-admin startproject backend\
 python manage.py runserver\
 python manage.py startapp base\
-pip install djangorestframework\
+pip install djangorestframework
 
