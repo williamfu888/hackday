@@ -13,13 +13,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-backend
-pip install virtualenv
-virtualenv myenv
-myenv\scripts\activate
-pip install django
-django-admin startproject backend
-python manage.py runserver
-python manage.py startapp base
-pip install djangorestframework
+backend\
+pip install virtualenv\
+virtualenv myenv\
+myenv\scripts\activate\
+pip install django\
+django-admin startproject backend\
+python manage.py runserver\
+python manage.py startapp base\
+pip install djangorestframework\
